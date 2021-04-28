@@ -6,6 +6,6 @@ public class People {
 
     @GetMapping
     public String get(){
-
+        return "teste";
     }
 }
